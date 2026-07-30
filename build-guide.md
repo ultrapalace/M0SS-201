@@ -1,4 +1,4 @@
-# M0SS-101 BUILD GUIDE
+# M0SS-201 BUILD GUIDE
 ( last updated July 30, 2026 )
 
 ## Here are the contents of the kit
@@ -18,8 +18,8 @@
 | 1       | 7mm Standoff |
 | 2       | M2 x 4mm screw, T8 |
 | 5       | 6-32 x 3/8" screw, Hex |
-| 4       | Silicon Feet (not pictured) |
-| 1       | Aluminum enclosure (not pictured) |
+| 4       | Silicone Feet |
+| 1       | Aluminum enclosure |
 
 <br/>
 
