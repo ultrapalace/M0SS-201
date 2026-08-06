@@ -29,6 +29,8 @@
 - Solder
 - A T8 torx bit and driver
 - A 2mm Allen Wrench or 2mm hex bit and driver
+- A micro-B USB cable
+- A computer with a browser that can run Web-USB (like Chrome)
 
 <br/>
 
@@ -121,7 +123,13 @@
 
 <br/>
 
-## STEP 9: Install the enclosure
+## Step 9: Flash firmware
+
+- Using the instructions in [firmware-update-guide.md](firmware-update-guide.md), flash the most recent M0SS-201 firmware to your board. Firmware files are found in `firmware/`.
+
+<br/>
+
+## STEP 10: Install the enclosure
 
 - Place the PCB assembly into the enclosure, inserting the jacks first.  
 - Install the 4 large black 6-32 x 3/8" screws.  
@@ -144,7 +152,7 @@ Here some details on the I/O:
 
 <br/>
 
-## STEP 10: First boot
+## STEP 11: First boot
 
 - Apply power to the M0SS-201.
 - Some lights should come on.
@@ -154,7 +162,7 @@ Here some details on the I/O:
 <br/>
 
 
-## STEP 11: Construct the manual
+## STEP 12: Construct the manual
 
 - I found this cute diagram online, use it to fold your manual into a tiny book.
 
