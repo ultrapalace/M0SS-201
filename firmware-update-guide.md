@@ -12,10 +12,10 @@
 - Remove all the jacks from the M0SS-201
 - Remove the 4 screws
 - Remove the nut on the 1/4" Audio Jack
-- Gently remove the guts of the M0SS-101
+- Gently remove the guts of the M0SS-201
 - Look for a small USB-B jack near the USB-A Host jack
 - Using a USB-B cable, connect your computer to this small USB-B jack.
-- Connect your 9v PSU to provide power to the M0SS-101
+- Connect your 9v PSU to provide power to the M0SS-201
 
 ## STEP 3: Place M0SS-201 in bootloader mode
 - Above the FFC cables, you will see 2 buttons labeled `BOOT` and `RST`.
